@@ -87,7 +87,7 @@ async function start(file) {
 
     fs.watchFile(args[0], () => {
       fs.unwatchFile(args[0])
-      start('Hydra.js')
+      start('language.js')
     })
   })
 
@@ -95,7 +95,7 @@ async function start(file) {
     console.error(chalk.red(`Error: ${err}`))
     p.kill()
     isRunning = false
-    start('Hydra.js')
+    start('language.js')
   })
 
   const pluginsFolder = path.join(path.dirname(currentFilePath), 'plugins')
@@ -117,7 +117,7 @@ async function start(file) {
   })
 }
 
-start('Hydra.js')
+start('language.js')
 
 process.on('unhandledRejection', () => {
   console.error(chalk.red(`Unhandled promise rejection. Bot will restart...`))
