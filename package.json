@@ -39,7 +39,7 @@
     "@sefinek/google-tts-api": "*",
      "@shineiichijo/marika": "^3.0.1",
     "@vitalets/google-translate-api": "^9.2.0",
-    "baileys": "@whiskeysockets/baileys": "^6.6.0",
+    "baileys": "git+https://github.com/Skidy89/baileys.git#master",
     "acrcloud": "^1.4.0",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "3.4.0",
