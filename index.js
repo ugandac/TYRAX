@@ -1,131 +1,82 @@
-import chalk from 'chalk'
-import { spawn } from 'child_process'
-import express from 'express'
-import figlet from 'figlet'
-import fs from 'fs'
-import path from 'path'
-import { fileURLToPath } from 'url';
+console.log('[ ℹ️ ] Starting...');
+import {join, dirname} from 'path';
+import {createRequire} from 'module';
+import {fileURLToPath} from 'url';
+import {setupMaster, fork} from 'cluster';
+import cfonts from 'cfonts';
+import {createInterface} from 'readline';
+import yargs from 'yargs';
 
-figlet(
-  'HYDRA',
-  {
-    font: 'Ghost',
-    horizontalLayout: 'default',
-    verticalLayout: 'default',
-  },
-  (err, data) => {
-    if (err) {
-      console.error(chalk.red('Figlet error:', err))
-      return
-    }
-    console.log(chalk.yellow(data))
-  }
-)
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const require = createRequire(__dirname);
+const {say} = cfonts;
+const rl = createInterface(process.stdin, process.stdout);
 
-figlet(
-  'Advanced Whatsapp Bot',
-  {
-    horizontalLayout: 'default',
-    verticalLayout: 'default',
-  },
-  (err, data) => {
-    if (err) {
-      console.error(chalk.red('Figlet error:', err))
-      return
-    }
-    console.log(chalk.magenta(data))
-  }
-)
+say('Tyraxes\nBot', {
+  font: 'chrome',
+  align: 'center',
+  gradient: ['red', 'magenta']});
+say(`Sting Like A Bee`, {
+  font: 'console',
+  align: 'center',
+  gradient: ['red', 'magenta']});
 
-const app = express()
-const port = process.env.PORT || 5000
+let isRunning = false;
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+/**
+* Start a JS file
+* @param {String} file `path/to/file`
+*/
+function start(file) {
+  if (isRunning) return;
+  isRunning = true;
+  const args = [join(__dirname, file), ...process.argv.slice(2)];
 
-app.use(express.static(path.join(__dirname, 'assets')));
+  /** say('[ ℹ️ ] Scan the QR code or enter the pairing code in WhatsApp.', {
+    font: 'console',
+    align: 'center',
+    gradient: ['red', 'magenta']}); **/
 
-app.get('/', (req, res) => {
-  res.redirect('/global.html');
-});
+  setupMaster({
+    exec: args[0],
+    args: args.slice(1)});
+  const p = fork();
+  p.on('message', (data) => {
 
-app.listen(port, () => {
-  console.log(chalk.green(`Port ${port} is open`))
-})
-
-let isRunning = false
-
-async function start(file) {
-  if (isRunning) return
-  isRunning = true
-
-  const currentFilePath = new URL(import.meta.url).pathname
-  const args = [path.join(path.dirname(currentFilePath), file), ...process.argv.slice(2)]
-  const p = spawn(process.argv[0], args, {
-    stdio: ['inherit', 'inherit', 'inherit', 'ipc'],
-  })
-
-  p.on('message', data => {
-    console.log(chalk.cyan(`✔️RECEIVED ${data}`))
+    console.log('[RECEIVED]', data);
     switch (data) {
       case 'reset':
-        p.kill()
-        isRunning = false
-        start.apply(this, arguments)
-        break
+        p.process.kill();
+        isRunning = false;
+        start.apply(this, arguments);
+        break;
       case 'uptime':
-        p.send(process.uptime())
-        break
+        p.send(process.uptime());
+        break;
     }
-  })
+  });
+  p.on('exit', (_, code) => {
+    isRunning = false;
+    console.error('[ ℹ️ ] An unexpected error occurred:', code);
 
-  p.on('exit', code => {
-    isRunning = false
-    console.error(chalk.red(`❌Exited with code: ${code}`))
+    p.process.kill();
+    isRunning = false;
+    start.apply(this, arguments);
 
-    if (code === 0) return
-
-    fs.watchFile(args[0], () => {
-      fs.unwatchFile(args[0])
-      start('main.js')
-    })
-  })
-
-  p.on('error', err => {
-    console.error(chalk.red(`Error: ${err}`))
-    p.kill()
-    isRunning = false
-    start('main.js')
-  })
-
-  const pluginsFolder = path.join(path.dirname(currentFilePath), 'plugins')
-
-  fs.readdir(pluginsFolder, async (err, files) => {
-    if (err) {
-      console.error(chalk.red(`Error reading plugins folder: ${err}`))
-      return
+    if (process.env.pm_id) {
+      process.exit(1);
+    } else {
+      process.exit();
     }
-    console.log(chalk.yellow(`Installed ${files.length} plugins`))
-
-    try {
-      const { default: baileys } = await import('@whiskeysockets/baileys')
-      const version = (await baileys.fetchLatestBaileysVersion()).version
-      console.log(chalk.yellow(`Using Baileys version ${version}`))
-    } catch (e) {
-      console.error(chalk.red(' Baileys library is not installed'))
+  });
+  const opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse());
+  if (!opts['test']) {
+    if (!rl.listenerCount()) {
+      rl.on('line', (line) => {
+       
+ p.emit('message', line.trim());
+      });
     }
-  })
+  }
 }
-
-start('main.js')
-
-process.on('unhandledRejection', () => {
-  console.error(chalk.red(`Unhandled promise rejection. Bot will restart...`))
-  start('Hydra.js')
-})
-
-process.on('exit', code => {
-  console.error(chalk.red(`Exited with code: ${code}`))
-  console.error(chalk.red(`Bot will restart...`))
-  start('Hydra.js')
-})
+start('main.js');
