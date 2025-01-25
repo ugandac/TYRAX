@@ -1,37 +1,37 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://github.com/Kingdragony/TYRAX",
-        "___Criador": "https://github.com/Kingdragony/TYRAX"
+        "___Contribuidor": "https://github.com/jeffersonalionco",
+        "___Criador": "https://github.com/BrunoSobrino"
     },
     "plugins": {
         "antiarab": {
-            "texto1": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +212 are not allowed. Therefore, you will be removed from the group.*",
-            "texto2": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +265 are not allowed. Therefore, you will be removed from the group.*",
-            "texto3": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +92 are not allowed. Therefore, you will be removed from the group.*"
+            "texto1": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +212 are not allowed. Therefore, you will be removed from the group.*",
+            "texto2": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +265 are not allowed. Therefore, you will be removed from the group.*",
+            "texto3": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +92 are not allowed. Therefore, you will be removed from the group.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Antilink is enabled, but the participant who sent the link is an administrator.*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
-            "texto3": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] For antilink to work correctly, the bot must be an administrator of the group.*",
-            "texto4": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀] This feature is disabled because the* _restrict_ *feature is enabled.*"
+            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Antilink is enabled, but the participant who sent the link is an administrator.*",
+            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
+            "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] For antilink to work correctly, the bot must be an administrator of the group.*",
+            "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] This feature is disabled because the* _restrict_ *feature is enabled.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] For antilink to work correctly, the bot must be an administrator of the group.*",
-            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This feature is disabled because the* _restrict_ *feature is enabled.*"
+            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
+            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] For antilink to work correctly, the bot must be an administrator of the group.*",
+            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] This feature is disabled because the* _restrict_ *feature is enabled.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVATE />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The antiprivate function is enabled, so you will be blocked.*"
+            "texto1": "_*< ANTI-PRIVATE />*_\n\n*[ ℹ️ ] The antiprivate function is enabled, so you will be blocked.*"
         },
         "_antitoxic": {
-            "texto1": "_*< ANTI-TOXIC />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] ",
+            "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
             "texto1_1": " send the word ",
             "texto1_2": " is prohibited in this group.\n\n▢ *Warning:* ",
-            "texto2": "_*< ANTI-TOXIC />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant ",
+            "texto2": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] Participant ",
             "texto2_1": " has exceeded 5 warnings, so you will be expelled from the group.*"
         },
         "_antitrabas": {
-            "texto1": "< ANTI-BARRIERS />_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀] Administrator ",
+            "texto1": "< ANTI-BARRIERS />_\n\n*[ ℹ️ ] Administrator ",
             "texto1_1": " sent a message that contains too many characters.* ",
             "texto2": "[ ! ] A message containing too many characters was detected [ ! ]\n",
             "texto2_1": " I'm not an administrator, I can't do anything :/ ",
@@ -45,7 +45,7 @@
             "texto1": "*- In this group, you do not have permission to hide anything.*"
         },
         "_autosticker": {
-            "texto1": "_*< FUNCTIONS - AUTOSTICKER />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The duration of the video cannot exceed 7 seconds.*\n\n*[ 💡 ] To disable the* _autosticker_ *function, send the following command:* _/"
+            "texto1": "_*< FUNCTIONS - AUTOSTICKER />*_\n\n*[ ℹ️ ] The duration of the video cannot exceed 7 seconds.*\n\n*[ 💡 ] To disable the* _autosticker_ *function, send the following command:* _/"
         },
         "_detectevents": {
             "texto1": "Recently, a member was promoted to administrator.\n\n",
@@ -84,14 +84,14 @@
         },
         "adult_hentaipdf": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] COMMANDS +18 ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE THE COMMAND #enable modohorny",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF A HENTAI CATEGORY, FOR EXAMPLE:",
+            "texto2": "[❗] INSERT THE NAME OF A HENTAI CATEGORY, FOR EXAMPLE:",
             "texto2_1": "miku",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] ERROR, TRY AGAIN AND/OR TRY WITH ANOTHER CATEGORY"
+            "texto3": "[❗] ERROR, TRY AGAIN AND/OR TRY WITH ANOTHER CATEGORY"
         },
         "adult_hentaisearch": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] +18 COMMANDS ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE THE COMMAND #enable modohorny",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF A HENTAI TO BE SEARCHED",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] NO RESULTS WERE FOUND"
+            "texto2": "[❗] INSERT THE NAME OF A HENTAI TO BE SEARCHED",
+            "texto3": "[❗] NO RESULTS WERE FOUND"
         },
         "adult_pack_vid": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] +18 COMMANDS ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE THE COMMAND #enable modohorny",
@@ -100,28 +100,28 @@
         "adult_xnxxdl": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] +18 COMMANDS ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE THE COMMAND #enable modohorny",
             "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT A VALID XNXX LINK, EXAMPLE:",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] THE VIDEO IS BEING PROCESSED, PLEASE WAIT WHILE IT IS SENT..\n\n- THE SENDING TIME DEPENDS ON THE WEIGHT AND DURATION OF THE VIDEO",
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] NO LINK WAS FOUND FOR THIS NUMBER, PLEASE INSERT A NUMBER BETWEEN 1 AND THE ",
-            "texto5": "[❗𝐈𝐍𝐅𝐎❗] TO USE THIS COMMAND IN THIS WAY ",
+            "texto3": "[❗] THE VIDEO IS BEING PROCESSED, PLEASE WAIT WHILE IT IS SENT..\n\n- THE SENDING TIME DEPENDS ON THE WEIGHT AND DURATION OF THE VIDEO",
+            "texto4": "[❗] NO LINK WAS FOUND FOR THIS NUMBER, PLEASE INSERT A NUMBER BETWEEN 1 AND THE ",
+            "texto5": "[❗] TO USE THIS COMMAND IN THIS WAY ",
             "texto5_1": "<number>), PLEASE SEARCH FOR VIDEOS WITH THE COMMAND",
-            "texto6": "[❗𝐈𝐍𝐅𝐎❗] TO USE THIS COMMAND IN THIS WAY ",
+            "texto6": "[❗] TO USE THIS COMMAND IN THIS WAY ",
             "texto6_1": "<number>), PLEASE SEARCH FOR VIDEOS WITH THE COMMAND",
             "texto7": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN \n\n*- CHECK IF THE LINK IS SIMILAR TO:*"
         },
         "adult_xnxxsearch": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] +18 COMMANDS ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE",
+            "texto1": "[❗] +18 COMMANDS ARE DISABLED IN THIS GROUP, IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE",
             "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE ITEM YOU WANT TO SEARCH FOR ",
             "texto3": "🔍 SEARCH RESULTS:"
         },
         "adult_xvideosdl": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] +18 COMMANDS ARE DISABLED IN THIS GROUP. IF YOU ARE AN ADMINISTRATOR AND WANT TO ACTIVATE THEM, USE",
             "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT A VALID XVÍDEOS LINK, EXAMPLE:",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] THE VIDEO IS BEING PROCESSED, PLEASE WAIT WHILE IT IS SENT..\n\n- THE SENDING TIME DEPENDS ON THE WEIGHT AND DURATION OF THE VIDEO",
+            "texto3": "[❗] THE VIDEO IS BEING PROCESSED, PLEASE WAIT WHILE IT IS SENT..\n\n- THE SENDING TIME DEPENDS ON THE WEIGHT AND DURATION OF THE VIDEO",
             "texto4": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN \n*- CHECK IF THE LINK IS SIMILAR TO:*"
         },
         "afk__afk": {
             "texto1": [
-                "[❗𝐈𝐍𝐅𝐎❗] NO ONE TAGGED [❗𝐈𝐍𝐅𝐎❗]",
+                "[❗] NO ONE TAGGED [❗]",
                 "THE USER WHO USED TAG IS INACTIVE (AFK)",
                 "REASON FOR INACTIVITY (AFK): ",
                 "REASON FOR INACTIVITY (AFK): THE USER DID NOT SPECIFY A REASON IN THEIR ACTIVATION",
@@ -171,7 +171,7 @@
                 "*🎆 • Background:*",
                 "*❄ • Summary:*"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗]* _ERROR, PLEASE TRY AGAIN_"
+            "texto3": "*[❗]* _ERROR, PLEASE TRY AGAIN_"
         },
         "buscador_githubsearch": {
             "texto1": [
@@ -196,8 +196,8 @@
             ]
         },
         "buscador_peliculas": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OR LINK OF THE MOVIE YOU WANT TO SEARCH FOR",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] NO RELEVANT MOVIE INFORMATION FOUND",
+            "texto1": "[❗] INSERT THE NAME OR LINK OF THE MOVIE YOU WANT TO SEARCH FOR",
+            "texto2": "[❗] NO RELEVANT MOVIE INFORMATION FOUND",
             "texto3": [
                 "🎬 • Name:",
                 "🍿 • URL:",
@@ -207,8 +207,8 @@
             ]
         },
         "buscador_playstore": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF THE APP YOU WANT TO SEARCH FOR",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF THE APP YOU WANT TO SEARCH FOR",
+            "texto1": "[❗] INSERT THE NAME OF THE APP YOU WANT TO SEARCH FOR",
+            "texto2": "[❗] INSERT THE NAME OF THE APP YOU WANT TO SEARCH FOR",
             "texto3": [
                 "*🔍 Result:*",
                 "*✍️ Developer:*",
@@ -218,23 +218,23 @@
             ]
         },
         "buscador_stickersearch": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF THE PACK YOU WANT TO SEARCH FOR",
+            "texto1": "[❗] INSERT THE NAME OF THE PACK YOU WANT TO SEARCH FOR",
             "texto2": [
                 "🪴 • Result:",
                 "🌵 • Name:",
                 "🍂 • Url:"
             ],
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN"
+            "texto3": "[❗] ERROR, PLEASE TRY AGAIN"
         },
         "buscador_stickersearch2": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] INSERT THE NAME OF THE PACK YOU WANT TO SEARCH FOR",
+            "texto1": "[❗] INSERT THE NAME OF THE PACK YOU WANT TO SEARCH FOR",
             "texto2": [
                 "🌅 • Result:",
                 "🥗 • Name:",
                 "🐢 • Author:",
                 "🍂 • Url:"
             ],
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN"
+            "texto3": "[❗] ERROR, PLEASE TRY AGAIN"
         },
         "buscador_wikipedia": {
             "texto1": [
@@ -430,19 +430,19 @@
             ],
             "texto28": [
                 "< BOT FUNCTIONS />",
-                "[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The option",
+                "[ ℹ️ ] The option",
                 "has been successfully applied to this"
             ]
         },
         "convertidor_toanime": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] REPLY OR SEND AN IMAGE",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] CONVERT IMAGE TO ANIME, SELECT AN IMAGE AND SEND THE RESULT",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE VERIFY IF A PERSON'S FACE IS VISIBLE IN THE IMAGE"
+            "texto1": "[❗] REPLY OR SEND AN IMAGE",
+            "texto2": "[❗] CONVERT IMAGE TO ANIME, SELECT AN IMAGE AND SEND THE RESULT",
+            "texto3": "[❗] ERROR, PLEASE VERIFY IF A PERSON'S FACE IS VISIBLE IN THE IMAGE"
         },
         "convertidor_togifaud": {
             "texto1": "[❗️INFORMATION❗️] REPLY TO A VIDEO YOU WANT TO CONVERT TO GIF WITH AUDIO",
             "texto2": [
-                "[❗𝐈𝐍𝐅𝐎❗] FILE TYPE",
+                "[❗] FILE TYPE",
                 "IS NOT ACCEPTED, REPLY TO A VIDEO YOU WANT TO CONVERT WITH AUDIO"
             ],
             "texto3": "HERE IS YOUR GIF WITH AUDIO, WHEN OPENED IT WILL BE PLAYED WITH AUDIO"
@@ -495,32 +495,32 @@
         "descargas_facebook": {
             "texto1": [
                 "< DOWNLOADS - FACEBOOK />",
-                "[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a Facebook link.",
+                "[ ℹ️ ] Enter a Facebook link.",
                 "[ 💡 ] Example:"
             ],
             "texto2": [
                 "< DOWNLOADS - FACEBOOK />",
-                "[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a Facebook link.",
+                "[ ℹ️ ] Enter a Facebook link.",
                 "[ 💡 ] Example:"
             ],
-            "texto3": "< DOWNLOADS - FACEBOOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The video is being sent. Please wait...",
+            "texto3": "< DOWNLOADS - FACEBOOK />*_\n\n*[ ℹ️ ] The video is being sent. Please wait...",
             "texto4": "< DOWNLOADS - FACEBOOK />",
-            "texto5": "< DOWNLOADS - FACEBOOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later."
+            "texto5": "< DOWNLOADS - FACEBOOK />*_\n\n*[ ℹ️ ] An error occurred. Please try again later."
         },
         "descargas_gdrive": {
-            "texto1": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a Google Drive link.*\n\n*[ 💡 ] Example:* ",
-            "texto2": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent. Please wait...*\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] If not sent, it may be because it exceeds the size limit.*",
-            "texto3": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto1": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ℹ️ ] Enter a Google Drive link.*\n\n*[ 💡 ] Example:* ",
+            "texto2": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ℹ️ ] The file is being sent. Please wait...*\n\n*[ ℹ️ ] If not sent, it may be because it exceeds the size limit.*",
+            "texto3": "_*< DOWNLOADS - GDRIVE />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "descargas_gitclone": {
-            "texto1": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a GitHub link.*\n\n*[ 💡 ] Example:*",
-            "texto2": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The link you provided is incorrect.*",
-            "texto3": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent. Please wait...*\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] If not sent, it may be because it exceeds the size limit.*"
+            "texto1": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ℹ️ ] Enter a GitHub link.*\n\n*[ 💡 ] Example:*",
+            "texto2": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ℹ️ ] The link you provided is incorrect.*",
+            "texto3": "_*< DOWNLOADS - GITCLONE />*_\n\n*[ ℹ️ ] The file is being sent. Please wait...*\n\n*[ ℹ️ ] If not sent, it may be because it exceeds the size limit.*"
         },
         "descargas_instagram": {
-            "texto1": "_*< DOWNLOADS - INSTAGRAM />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter an Instagram link.*\n\n*[ 💡 ] Example:*",
+            "texto1": "_*< DOWNLOADS - INSTAGRAM />*_\n\n*[ ℹ️ ] Enter an Instagram link.*\n\n*[ 💡 ] Example:*",
             "texto2": "_*< DOWNLOADS - INSTAGRAM />*_\n\n▢ *URL:*",
-            "texto3": "_*< DOWNLOADS - INSTAGRAM />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto3": "_*< DOWNLOADS - INSTAGRAM />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "descargas_mediafire": {
             "texto1": [
@@ -528,86 +528,86 @@
                 "▢ *Name:* ",
                 "▢ *Size:* ",
                 "▢ *Extension:*",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent. Please wait...*"
+                "*[ ℹ️ ] The file is being sent. Please wait...*"
             ],
             "texto2": [
                 "*< DOWNLOADS - MEDIAFIRE />*",
                 "▢ *Name:*",
                 "▢ *Size:*",
                 "▢ *Extension:*",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent. Please wait...*"
+                "*[ ℹ️ ] The file is being sent. Please wait...*"
             ],
-            "texto3": "_*< DOWNLOADS - MEDIAFIRE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto4": "_*< DOWNLOADS - MEDIAFIRE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a MediaFire link.*\n\n*[ 💡 ] Example:*"
+            "texto3": "_*< DOWNLOADS - MEDIAFIRE />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
+            "texto4": "_*< DOWNLOADS - MEDIAFIRE />*_\n\n*[ ℹ️ ] Enter a MediaFire link.*\n\n*[ 💡 ] Example:*"
         },
         "descargas_play_v2": {
             "texto1": [
-                "_*< 🎶🐝 TYRAXES 🎶 v2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title is missing.*\n\n*[ 💡 ] Example:*",
+                "_*< DOWNLOADS - PLAY v2 />*_\n\n*[ ℹ️ ] The YouTube video title is missing.*\n\n*[ 💡 ] Example:*",
                 "Good Feeling - Flo Rida_\n\n*[ 💡 ] Example 2:*"
             ],
-            "texto2": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto3": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
+            "texto2": "_*< DOWNLOADS - PLAY V2 />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
+            "texto3": "_*< DOWNLOADS - PLAY V2 />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
             "texto4": [
-                "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n▢ *Title:* ",
-                "▢ 📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
-                "▢ ⏯️ *C𝗵𝗮𝗻𝗻𝗲𝗹:* ",
-                "▢ 🔗 *L𝗶𝗻𝗸:*:*"
+                "_*< DOWNLOADS - PLAY V2 />*_\n\n▢ *Title:* ",
+                "▢ *Published:*",
+                "▢ *Channel:*",
+                "▢ *Video URL:*"
             ],
-            "texto5": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto6": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto5": "_*< DOWNLOADS - PLAY V2 />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
+            "texto6": "_*< DOWNLOADS - PLAY V2 />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "descargas_play": {
             "texto1": [
-                "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title or link is missing.*\n\n*[ 💡 ] Example:*",
+                "_*< DOWNLOADS - PLAY />*_\n\n*[ ℹ️ ] The YouTube video title or link is missing.*\n\n*[ 💡 ] Example:*",
                 "Good Feeling - Flo Rida_"
             ],
             "texto2": [
-                "_*< 🎶 TYRAXES 🎶 />*_\n\n▢ *📌 *𝗧𝗶𝘁𝗹𝗲:*",
-                "▢ 📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:* ",
-                "▢ ⌚ *Dur𝗮𝘁𝗶𝗼𝗻:*",
-                "▢ 👀 *Vi𝗲𝘄𝘀:* ",
-                "▢ 👤 *Au𝘁𝗵𝗼𝗿:*",
-                "▢ 🆔 *ID:* ",
-                "▢ 🪬 *T𝘆𝗽𝗲:*",
-                "▢ 🔗 *L𝗶𝗻𝗸:*",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent, please wait...*"
+                "_*< DOWNLOADS - PLAY />*_\n\n▢ *Title:*",
+                "▢ *Published:*",
+                "▢ *Duration:*",
+                "▢ *Views:*",
+                "▢ *Author:*",
+                "▢ *ID:*",
+                "▢ *Type:*",
+                "▢ *Link:*",
+                "*[ ℹ️ ] The file is being sent, please wait...*"
             ],
-            "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Download your audio at:*",
-            "texto4": "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto5": "*_ < 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Download your video at:*",
-            "texto6": "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto3": "*[ ℹ️ ] Download your audio at:*",
+            "texto4": "_*< DOWNLOADS - PLAY />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
+            "texto5": "*_ < DOWNLOADS - PLAY />*_\n\n*[ ℹ️ ] Download your video at:*",
+            "texto6": "_*< DOWNLOADS - PLAY />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "descargas_spotify": {
-            "texto1": "_*< DOWNLOADS - SPOTIFY />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The Spotify song title is missing.*\n\n*[ 💡 ] Example:*",
+            "texto1": "_*< DOWNLOADS - SPOTIFY />*_\n\n*[ ℹ️ ] The Spotify song title is missing.*\n\n*[ 💡 ] Example:*",
             "texto2": [
                 "*< DOWNLOADS - SPOTIFY />*",
-                "▢ 📌 *𝗧𝗶𝘁𝗹𝗲:* ",
-                "▢ 👤 *Artist:*",
-                "▢ 📷*Album:*",
-                "▢ 📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The audio is being sent, please wait...*"
+                "▢ *Title:*",
+                "▢ *Artist:*",
+                "▢ *Album:*",
+                "▢ *Published:*",
+                "*[ ℹ️ ] The audio is being sent, please wait...*"
             ],
-            "texto3": "_*< DOWNLOADS - SPOTIFY />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto3": "_*< DOWNLOADS - SPOTIFY />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "descargas_spotifypro": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Enter the link of a track, playlist, or album from Spotify or simply the name of a song to search.*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Enter the link of a track, playlist, or album from Spotify.*",
+            "texto1": "*[❗] Enter the link of a track, playlist, or album from Spotify or simply the name of a song to search.*",
+            "texto2": "*[❗] Enter the link of a track, playlist, or album from Spotify.*",
             "texto3": [
                 "*• 💽 Spotify Download •*",
-                "📷*Album:* ",
-                "◦👤 *Artist:*",
-                "◦📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
-                "◦🎶*Total tracks:*",
-                "Audios are being sent, please wait a moment.. 🎵"
+                "*Album:* ",
+                "◦  *Artist:*",
+                "◦  *Published:*",
+                "◦  *Total tracks:*",
+                "Audios are being sent, please wait a moment.."
             ],
             "texto4": [
                 "*• 💽 Spotify Download •*",
-                "◦  📌 *𝗧𝗶𝘁𝗹𝗲:* ",
-                "◦  👤 *Artist:*",
-                "◦  ⌚ *Dur𝗮𝘁𝗶𝗼𝗻:*",
-                "◦  📷*Album:*",
-                "◦  📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
-                "The audio 🎵 is being sent, please wait a moment.."
+                "◦  *Title:*",
+                "◦  *Artist:*",
+                "◦  *Duration:*",
+                "◦  *Album:*",
+                "◦  *Published:*",
+                "The audio is being sent, please wait a moment.."
             ],
             "texto5": [
                 "*• 💽 Spotify Download •*",
@@ -617,19 +617,19 @@
             ],
             "texto6": [
                 "*• 💽 Spotify Download •*",
-                "◦  📌 *𝗧𝗶𝘁𝗹𝗲:* ",
-                "◦  👤 *Artist:*",
-                "◦  ⌚ *Dur𝗮𝘁𝗶𝗼𝗻:*",
-                "◦  📷*Album:*",
-                "◦  📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
-                "The audio 🗃️ is being sent, please wait a moment.."
+                "◦  *Title:*",
+                "◦  *Artist:*",
+                "◦  *Duration:*",
+                "◦  *Album:*",
+                "◦  *Published:*",
+                "The audio is being sent, please wait a moment.."
             ],
-            "texto7": "*[❗𝐈𝐍𝐅𝐎❗] Error, no results found.*"
+            "texto7": "*[❗] Error, no results found.*"
         },
         "descargas_tiktok": {
-            "texto1": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*",
-            "texto2": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*",
-            "texto3": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The video is being sent. Please wait...*",
+            "texto1": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ℹ️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*",
+            "texto2": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ℹ️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*",
+            "texto3": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ℹ️ ] The video is being sent. Please wait...*",
             "texto4": [
                 "_*< DOWNLOADS - TIKTOK />*_\n\n*[ 💡 ] Reply to this video with the command*",
                 "*to convert it to audio.*"
@@ -650,8 +650,8 @@
                 "_*< DOWNLOADS - TIKTOK />*_\n\n*[ 💡 ] Reply to this video with the command*",
                 "*to convert it to audio.*"
             ],
-            "texto9": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto10": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*"
+            "texto9": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*",
+            "texto10": "_*< DOWNLOADS - TIKTOK />*_\n\n*[ ℹ️ ] Enter a TikTok link.*\n\n*[ 💡 ] Example:*"
         },
         "downloader_igstory": {
             "texto1": "*[❗️INFORMATION❗️] Enter the Instagram username*\n\n*EXAMPLE:*",
@@ -704,9 +704,9 @@
             "texto6": "*[❗️] Please provide a valid video to convert.*"
         },
         "downloader_playlist": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] The song name is missing, please enter the command followed by the name/title of a song*\n\n*—◉ Example:*",
+            "texto1": "*[❗] The song name is missing, please enter the command followed by the name/title of a song*\n\n*—◉ Example:*",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] You can download the desired video as follows:*",
+                "*[❗] You can download the desired video as follows:*",
                 "*—◉ Examples:*",
                 "🫐 *_Link:_*",
                 "🕒 *_Duration:_*",
@@ -759,30 +759,30 @@
             "texto2": "*Result for"
         },
         "downloader_x_twitter": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Enter an X (Twitter) link, for example: ",
+            "texto1": "*[❗] Enter an X (Twitter) link, for example: ",
             "texto2": "'Here's your image'",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again later.*",
+            "texto3": "*[❗] Error, please try again later.*",
             "texto4": "There was an error getting the Twitter ID. Please check if the Twitter URL is correct!",
             "texto5": "An error occurred while sending the request."
         },
         "downloader_yta_2": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by a YouTube video link",
+            "texto1": "[❗] Enter the command followed by a YouTube video link",
             "texto2": "⏳Your audio is being processed...⏳\n\n◉ If your audio is not sent, try using the command #playdoc or #play.2 or #ytmp4doc ◉",
             "texto3": [
                 "◉—⌈📥 YOUTUBE DOWNLOAD 📥⌋—◉",
                 "❏ TITLE:",
                 "❏ SIZE:"
             ],
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] ERROR COULD NOT DOWNLOAD AUDIO"
+            "texto4": "[❗] ERROR COULD NOT DOWNLOAD AUDIO"
         },
         "downloader_yta": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] No link found for that number, please enter a number between 1 and",
+            "texto1": "[❗] No link found for that number, please enter a number between 1 and",
             "texto2": [
-                "[❗𝐈𝐍𝐅𝐎❗] To use the command in this way ",
+                "[❗] To use the command in this way ",
                 "<number>), please search for videos using the command"
             ],
             "texto3": [
-                "[❗𝐈𝐍𝐅𝐎❗] To use the command in this way ",
+                "[❗] To use the command in this way ",
                 "<number>), please search for videos using the command"
             ],
             "texto4": "⏳Your audio is being processed...⏳\n\n◉ If your audio is not sent, try using the command #playdoc or #play.2 or #ytmp4doc ◉*",
@@ -794,12 +794,12 @@
                 "[ ✔ ] Audio downloaded and sent successfully."
             ],
             "texto6": "[ ❌ ] The audio could not be downloaded or sent, please try again.",
-            "texto7": "[❗𝐈𝐍𝐅𝐎❗] Error, could not download the audio.",
-            "texto8": "[❗𝐈𝐍𝐅𝐎❗] Incorrect usage of the command, enter a YouTube link."
+            "texto7": "[❗] Error, could not download the audio.",
+            "texto8": "[❗] Incorrect usage of the command, enter a YouTube link."
         },
         "downloader_ytmeta": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by Arlodragon & The Tyraxes-Bot-MD 🤖"
+            "texto1": "[❗] Enter a YouTube link.",
+            "texto2": "🤴🏻 Download by BrunoSobrino & TheMystic-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -809,17 +809,17 @@
                 "❏ Title:",
                 "❏ Size: "
             ],
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] ERROR COULD NOT DOWNLOAD VIDEO"
+            "texto4": "[❗] ERROR COULD NOT DOWNLOAD VIDEO"
         },
         "downloader_ytv": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Incorrect usage of the command, enter a YouTube link.",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] No link found for that number, please enter a number between 1 and",
+            "texto1": "[❗] Incorrect usage of the command, enter a YouTube link.",
+            "texto2": "[❗] No link found for that number, please enter a number between 1 and",
             "texto3": [
-                "[❗𝐈𝐍𝐅𝐎❗] To use the command in this way ",
+                "[❗] To use the command in this way ",
                 "<number>), please search for videos using the command"
             ],
             "texto4": [
-                "[❗𝐈𝐍𝐅𝐎❗] To use the command in this way",
+                "[❗] To use the command in this way",
                 "<number>), please search for videos using the command"
             ],
             "texto5": "⏳Processing your video...⏳\n\n◉ If your video is not sent, try using the command #playdoc or #play.2 or #ytmp4doc ◉*",
@@ -835,35 +835,35 @@
                 "[ ✔ ] Video downloaded successfully."
             ],
             "texto8": "[ ❌ ] The video could not be downloaded or sent, please try again.",
-            "texto9": "[❗𝐈𝐍𝐅𝐎❗] Error, could not download the video."
+            "texto9": "[❗] Error, could not download the video."
         },
         "downloader_ytvideodl": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] Enter a valid YouTube video link",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] File is only supported up to 999 MB"
+            "texto1": "[❗] Enter the command followed by the YouTube video link*",
+            "texto2": "[❗] Enter a valid YouTube video link",
+            "texto3": "[❗] File is only supported up to 999 MB"
         },
         "fix_esperando_mensaje": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Use this command directly in the main Bot number",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] No file including the chat ID was found",
+            "texto1": "[❗] Use this command directly in the main Bot number",
+            "texto2": "[❗] No file including the chat ID was found",
             "texto3": [
-                "[❗𝐈𝐍𝐅𝐎❗]",
+                "[❗]",
                 "session files were deleted"
             ],
             "texto4": "Error reading folder or session files:",
-            "texto5": "[❗𝐈𝐍𝐅𝐎❗] An error occurred while deleting session files",
-            "texto6": "👋 Hello! Can you see me now?\n\n*[❗𝐈𝐍𝐅𝐎❗] If the Bot is not responding to your commands, please spam it a little*\n\n*—◉ Example:"
+            "texto5": "[❗] An error occurred while deleting session files",
+            "texto6": "👋 Hello! Can you see me now?\n\n*[❗] If the Bot is not responding to your commands, please spam it a little*\n\n*—◉ Example:"
         },
         "fix_owner_esperando_mensajes": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Use this command directly in the main Bot number.",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] Starting the process of deleting all session files, except for creds.json...",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] The  TyraxesbotSession folder does not exist or is empty.",
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] No files to delete were found in the  Tyraxes🪀botSession folder.",
+            "texto1": "[❗] Use this command directly in the main Bot number.",
+            "texto2": "[❗] Starting the process of deleting all session files, except for creds.json...",
+            "texto3": "[❗] The MysticSession folder does not exist or is empty.",
+            "texto4": "[❗] No files to delete were found in the MysticSession folder.",
             "texto5": [
-                "[❗𝐈𝐍𝐅𝐎❗]",
+                "[❗]",
                 "session files were deleted, except for creds.json."
             ],
-            "texto6": "[❗𝐈𝐍𝐅𝐎❗] An error occurred while deleting session files.",
-            "texto7": "👋 Hello! Can you see me now?\n\n[❗𝐈𝐍𝐅𝐎❗] If the Bot is not responding to your commands, please spam it a little*\n\n*—◉ Example:*"
+            "texto6": "[❗] An error occurred while deleting session files.",
+            "texto7": "👋 Hello! Can you see me now?\n\n[❗] If the Bot is not responding to your commands, please spam it a little*\n\n*—◉ Example:*"
         },
         "frase_frases": {
             "texto1": "Tip of the day",
@@ -1075,7 +1075,7 @@
                 "is",
                 "-❥ It's always business time! 💼*"
             ],
-            "texto22": "[❗𝐈𝐍𝐅𝐎❗] Invalid command.",
+            "texto22": "[❗] Invalid command.",
             "texto23": [
                 "The universe has spoken.",
                 "Scientists confirm.",
@@ -1083,7 +1083,7 @@
             ],
             "texto24": "CALCULATOR",
             "texto25": "🔄 Calculating Percentage! 🔄",
-            "texto26": "[❗𝐈𝐍𝐅𝐎❗] You must mention someone for the calculation."
+            "texto26": "[❗] You must mention someone for the calculation."
         },
         "fun_doxeo_falso": {
             "texto1": [
@@ -1289,8 +1289,8 @@
             "texto8": "👑 WOW YOU'RE REALLY LUCKY WIN LUCK WIN FOR: 1 Hour ⏰"
         },
         "fun_simi": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] INSERT A TEXT TO TALK WITH SIMSIMI OR THE BOT*\n\n*EXAMPLE:",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, TRY AGAIN*",
+            "texto1": "*[❗] INSERT A TEXT TO TALK WITH SIMSIMI OR THE BOT*\n\n*EXAMPLE:",
+            "texto2": "*[❗] ERROR, TRY AGAIN*",
             "texto3": [
                 "Hello",
                 "Hello"
@@ -1497,7 +1497,7 @@
                 "XP\n*reply to the message with the desired option*",
                 "*example: paper*"
             ],
-            "texto6": "[❗𝐈𝐍𝐅𝐎❗] NO PLAYER TOOK THE INITIATIVE TO DRAW THE GAME, THE PVP HAS BEEN CANCELED",
+            "texto6": "[❗] NO PLAYER TOOK THE INITIATIVE TO DRAW THE GAME, THE PVP HAS BEEN CANCELED",
             "texto7": "YOU DID NOT SELECT ANY OPTION, PVP END*"
         },
         "game__ttt": {
@@ -1746,22 +1746,22 @@
         },
         "game_akinator_ans": {
             "texto1": "*0 - Yes*\n*1 - No*\n*2 - I don't know*\n*3 - Probably yes*\n*4 - Probably no*\n*5 - Go back to the previous question*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] RESPOND WITH NUMBERS 1, 2, 3, 4, OR 5*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] AND THERE ARE NO MORE PREVIOUS QUESTIONS TO THIS, THIS IS THE FIRST QUESTION*",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] AKINATOR'S ANSWER HAS EXPIRED, THE GAME HAS ENDED*",
+            "texto2": "*[❗] RESPOND WITH NUMBERS 1, 2, 3, 4, OR 5*",
+            "texto3": "*[❗] AND THERE ARE NO MORE PREVIOUS QUESTIONS TO THIS, THIS IS THE FIRST QUESTION*",
+            "texto4": "*[❗] AKINATOR'S ANSWER HAS EXPIRED, THE GAME HAS ENDED*",
             "texto5": "🎮 *AKINATOR* 🎮\n\n*AKINATOR'S QUESTION IS",
             "texto6": [
                 "🎮 *AKINATOR* 🎮\n*ANSWER:",
                 "*QUESTION:",
                 "*QUESTION:"
             ],
-            "texto7": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, ERROR INTERROGATION*"
+            "texto7": "*[❗] ERROR, ERROR INTERROGATION*"
         },
         "game_akinator": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] CURRENTLY THERE ARE NO SESSIONS IN AN AKINATOR SESSION (GAME)*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] IF YOU ARE IN A LOCAL CONVERSATION (GAME) OF AKINATOR, EXIT THE SESSION*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] YOU ARE STILL IN AN AKINATOR SESSION (GAME)*",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, LARGER WORD INTERVAL*",
+            "texto1": "*[❗] CURRENTLY THERE ARE NO SESSIONS IN AN AKINATOR SESSION (GAME)*",
+            "texto2": "*[❗] IF YOU ARE IN A LOCAL CONVERSATION (GAME) OF AKINATOR, EXIT THE SESSION*",
+            "texto3": "*[❗] YOU ARE STILL IN AN AKINATOR SESSION (GAME)*",
+            "texto4": "*[❗] ERROR, LARGER WORD INTERVAL*",
             "texto5": [
                 "🎮 *AKINATOR* 🎮\n\n*QUESTION:",
                 "*QUESTION:",
@@ -1773,7 +1773,7 @@
                 "*USE THE COMMAND",
                 " end TO EXIT THE AKINATOR SESSION (GAME)*"
             ],
-            "texto6": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, LARGER WORD INTERVAL*"
+            "texto6": "*[❗] ERROR, LARGER WORD INTERVAL*"
         },
         "game_cancion": {
             "texto1": "There are still unanswered songs in this chat.",
@@ -1789,7 +1789,7 @@
             "texto3": "Time's up!\nThe answer is"
         },
         "game_delttt": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THERE IS NO GAME OF TIC-TAC-TOE IN PROGRESS*",
+            "texto1": "*[❗] THERE IS NO GAME OF TIC-TAC-TOE IN PROGRESS*",
             "texto2": "START GAME ROOM",
             "texto3": "new game",
             "texto4": "*[ ✔ ] IF THE TIC-TAC-TOE GAME ROOM IN PROGRESS IS ELIMINATED*"
@@ -1855,14 +1855,14 @@
             ]
         },
         "game_slot": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ENTER THE AMOUNT YOU WANT TO BET*",
+            "texto1": "*[❗] ENTER THE AMOUNT YOU WANT TO BET*",
             "texto2": "*📌 EXAMPLE:*",
             "texto3": [
                 "*⏳ WAIT",
                 "TO BET AGAIN"
             ],
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] THE MINIMUM TO BET IS 100 XP*",
-            "texto5": "*[❗𝐈𝐍𝐅𝐎❗] YOUR XP IS NOT ENOUGH TO BET THAT AMOUNT, PLAY OTHER GAMES OR INTERACT WITH THE BOT TO EARN MORE XP*",
+            "texto4": "*[❗] THE MINIMUM TO BET IS 100 XP*",
+            "texto5": "*[❗] YOUR XP IS NOT ENOUGH TO BET THAT AMOUNT, PLAY OTHER GAMES OR INTERACT WITH THE BOT TO EARN MORE XP*",
             "texto6": "*YOU WON! 🎁",
             "texto7": "*🔮 ALMOST THERE!, KEEP TRYING*\n*TOMORROW +10 XP*",
             "texto8": "*❌ YOU LOST*"
@@ -2158,19 +2158,19 @@
             ]
         },
         "game_suitpvp": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] FINISH YOUR MATCH BEFORE STARTING ANOTHER ONE*",
+            "texto1": "*[❗] FINISH YOUR MATCH BEFORE STARTING ANOTHER ONE*",
             "texto2": "*WANT TO CHALLENGE? CLICK ON A CHARACTER*\n\n*—◉ EXAMPLE:*",
             "texto3": [
                 "🎮 GAMES - PVP - GAMES 🎮\n\n—◉",
                 "CHALLENGE A",
                 "TO A ROCK, PAPER, SCISSORS PVP\n◉ WRITE 'accept' TO ACCEPT\n◉ WRITE 'reject' TO DECLINE\nresponding to the message"
             ],
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] THE PERSON YOU WANT TO CHALLENGE IS ALREADY PLAYING ANOTHER MATCH, WAIT UNTIL THEY FINISH PLAYING*",
+            "texto4": "*[❗] THE PERSON YOU WANT TO CHALLENGE IS ALREADY PLAYING ANOTHER MATCH, WAIT UNTIL THEY FINISH PLAYING*",
             "texto5": "[ ⏳ ] WAITING TIME EXPIRED, PVP CANCELED DUE TO LACK OF RESPONSE"
         },
         "game_ttt": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] A NAME IS REQUIRED FOR A GAME ROOM*\n\n*—◉ START*",
+                "*[❗] A NAME IS REQUIRED FOR A GAME ROOM*\n\n*—◉ START*",
                 "new room*"
             ],
             "texto2": "*[🕹️] GAME STARTING, A PLAYER HAS JOINED THE GAME*",
@@ -2180,16 +2180,17 @@
                 "*🕹️ TIC-TAC-TOE 🎮*\n\n*◉ WAIT UNTIL ALL PLAYERS JOIN THE GAME*\n*◉ TO START OR LEAVE THE GAME USE THE COMMAND*",
                 "◉ TO JOIN A GAME WRITE:"
             ],
-            "texto6": "*[❗𝐈𝐍𝐅𝐎❗] A PLAYER ENTERED THE ROOM AND IS WAITING FOR EVERYONE TO JOIN*"
+            "texto6": "*[❗] A PLAYER ENTERED THE ROOM AND IS WAITING FOR EVERYONE TO JOIN*"
         },
         "gc_add": {
             "texto1": "*[ ⚠️ ] THE GROUP OWNER REQUESTED YOUR CONTACT (enable restricted / disable restricted) AND USED THIS COMMAND*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] A GROUP MEMBER ADDED YOUR PHONE NUMBER TO ADD YOU*",
+            "texto2": "*[❗] A GROUP MEMBER ADDED YOUR PHONE NUMBER TO ADD YOU*",
             "texto3": [
-                "*IT WAS NOT POSSIBLE TO ADD     , THIS MAY HAPPEN BECAUSE THE NUMBER IS INCORRECT, THE PERSON HAS RECENTLY LEFT THE GROUP OR THE PERSON HAS CONFIGURED THEIR GROUP PRIVACY, THE INVITATION TO THE GROUP WAS SENT TO THE USER IN THEIR PROVIDED*"
+                "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD THE",
+                "ACCOUNT BECAUSE THERE WAS A PROBLEM THIS IS KNOWN, THE PERSON HAS LEFT THE GROUP OR THE PERSON HAS CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY, THE GROUP PRIVACY INVITATION WAS SENT IN THEIR GROUP PRIVACY OR THE PERSON CONFIRMED THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY, I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL GUARANTEE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY!!*"
             ],
-            "texto4": "Hi!! Hello, let me introduce myself, I am The  Tyraxes bot - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
-            "texto5": "*[❗] IT IS NOT POSSIBLE TO ADD THE NUMBER THAT YOU ENTERED, THIS MAY OCCUR BECAUSE THE NUMBER IS INCORRECT, THE PERSON HAS RECENTLY LEFT THE GROUP OR THE PERSON HAS CONFIGURED THEIR GROUP PRIVACY, WE ADVISE YOU TO SEND THE INVITATION MANUALLY!!*"
+            "texto4": "Hi!! Hello, let me introduce myself, I am The Mystic - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
+            "texto5": "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD YOUR NUMBER BECAUSE THERE WAS A PROBLEM. KNOW THAT THE PERSON LEFT THE GROUP OR THE PERSON CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY SETTING. THE INVITATION WAS SENT TO THE GROUP IN THEIR GROUP PRIVACY SETTING OR THE PERSON CONFIRMED THEIR GROUP PRIVACY. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL ENSURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING!!*"
         },
         "gc_admins": {
             "texto1": [
@@ -2210,7 +2211,7 @@
         },
         "gc_config": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] WRONG FORMAT!!*",
+                "*[❗] WRONG FORMAT!!*",
                 "*┏━━━❲ ✨EXAMPLE✨ ❳━━━┓*",
                 "*[ ✔ ] GROUP CONFIGURED CORRECTLY*"
             ]
@@ -2220,7 +2221,7 @@
         },
         "gc_demote": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] APPROPRIATE USE*\n\n*┯┷*\n*┠≽",
+                "*[❗] APPROPRIATE USE*\n\n*┯┷*\n*┠≽",
                 "-> reply to a message*\n*┷┯*"
             ],
             "texto2": "*[ ⚠️ ] THE ENTERED NUMBER IS INCORRECT, PLEASE ENTER THE CORRECT NUMBER*",
@@ -2230,7 +2231,7 @@
             "texto1": "⏰UNLOCK2.0⏰* \nli.UNLOCKip.to \n2019 🦍💨"
         },
         "gc_fantasmas": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THE GROUP IS ACTIVE, THERE ARE NO GHOSTS :D*",
+            "texto1": "*[❗] THE GROUP IS ACTIVE, THERE ARE NO GHOSTS :D*",
             "texto2": [
                 "*[ ⚠️ INACTIVES REVIEW ⚠️]*\n\n*GROUP:*",
                 "*GROUP MEMBERS:*",
@@ -2270,7 +2271,7 @@
                 "*[ ⚠️ ] THE TARGET MEMBER HAS BEEN REMOVED",
                 " FROM THE GROUP BY AN ADMINISTRATOR*"
             ],
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] THE TARGET MEMBER HAS BEEN SUCCESSFULLY REMOVED FROM THE GROUP. PLEASE DELETE ALL MENTIONS OF THE TARGET MEMBER TO AVOID GROUP MANAGEMENT ERRORS.*\n\n*—◉ EXAMPLE:*"
+            "texto2": "*[❗] THE TARGET MEMBER HAS BEEN SUCCESSFULLY REMOVED FROM THE GROUP. PLEASE DELETE ALL MENTIONS OF THE TARGET MEMBER TO AVOID GROUP MANAGEMENT ERRORS.*\n\n*—◉ EXAMPLE:*"
         },
         "gc_link": {
             "texto1": [
@@ -2278,9 +2279,9 @@
             ]
         },
         "gc_listanum_kicknum": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] INFORMATION FROM THE PROFILE OF SOME COUNTRIES TO SEARCH NUMBERS IN THIS GROUP OF THIS GROUP THAT ARE NOT IN THIS GROUP, EXAMPLE:",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] INFORMATION FROM THE PROFILE OF SOME COUNTRIES TO SEARCH NUMBERS IN THIS GROUP OF THIS GROUP THAT ARE NOT IN THIS GROUP, EXAMPLE:",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] NOBODY IN THE GROUP IS IN A PROFILE LIST, PLEASE CHECK THE PHONE NUMBER YOU REQUESTED TO DELETE*",
+            "texto1": "*[❗] INFORMATION FROM THE PROFILE OF SOME COUNTRIES TO SEARCH NUMBERS IN THIS GROUP OF THIS GROUP THAT ARE NOT IN THIS GROUP, EXAMPLE:",
+            "texto2": "*[❗] INFORMATION FROM THE PROFILE OF SOME COUNTRIES TO SEARCH NUMBERS IN THIS GROUP OF THIS GROUP THAT ARE NOT IN THIS GROUP, EXAMPLE:",
+            "texto3": "*[❗] NOBODY IN THE GROUP IS IN A PROFILE LIST, PLEASE CHECK THE PHONE NUMBER YOU REQUESTED TO DELETE*",
             "texto4": [
                 "*LIST OF NUMBERS WITH PARTICIPANT PROFILE*",
                 "THAT ARE IN THIS GROUP:"
@@ -2290,11 +2291,11 @@
             ],
             "texto6": "*[❗ INFORMATION ❗] THE BOT IS NOT AN ADMINISTRATOR, IT CANNOT EXECUTE THE PERMISSIONS*",
             "texto7": [
-                "*[❗𝐈𝐍𝐅𝐎❗] INFORMATION DELETION OF NUMBERS WITH PARTICIPANT PROFILE",
+                "*[❗] INFORMATION DELETION OF NUMBERS WITH PARTICIPANT PROFILE",
                 "EVERY 10 SECONDS A USER WILL BE SENT*"
             ],
             "texto8": "YOU HAVE BEEN REMOVED OR LEFT THE GROUP*",
-            "texto9": "*[❗𝐈𝐍𝐅𝐎❗] ERROR*"
+            "texto9": "*[❗] ERROR*"
         },
         "gc_listwarn": {
             "texto1": "⚠️ WARNED USERS",
@@ -2305,7 +2306,7 @@
         },
         "gc_promote": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] APPROPRIATE USE*",
+                "*[❗] APPROPRIATE USE*",
                 "-> responder a uma mensagem*\n*┷┯*"
             ],
             "texto2": "*[⚠️] O número inserido está incorreto, por favor insira o número correto*",
@@ -2315,8 +2316,8 @@
             "texto1": "🔹️ *_The group link has been successfully reactivated._*\n♾ • New Link:"
         },
         "gc_setbye": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THE FAREWELL MEMBER HAS BEEN SET FOR THE GROUP*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] JOINED THE FAREWELL MEMBER YOU WANT TO ADD, USE:*",
+            "texto1": "*[❗] THE FAREWELL MEMBER HAS BEEN SET FOR THE GROUP*",
+            "texto2": "*[❗] JOINED THE FAREWELL MEMBER YOU WANT TO ADD, USE:*",
             "texto3": "(mention)*"
         },
         "gc_setdesc": {
@@ -2327,9 +2328,9 @@
             "texto2": "*[❗ INFORMATION ❗] SORRY FOR THE ERROR, THE NAME CANNOT BE GREATER THAN 25 CHARACTERS*"
         },
         "gc_setwelcome": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THE GROUP WELCOME MESSAGE HAS BEEN SUCCESSFULLY SET*",
+            "texto1": "*[❗] THE GROUP WELCOME MESSAGE HAS BEEN SUCCESSFULLY SET*",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] THE WELCOME LINK YOU WANT TO ADD, USE:*",
+                "*[❗] THE WELCOME LINK YOU WANT TO ADD, USE:*",
                 "*- @group (group name)*\n*- @desc (group description)*"
             ]
         },
@@ -2341,18 +2342,18 @@
             ]
         },
         "gc_unwarn": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] DELETED THE LAST OR RESPECTED A MEMBER OF THE GROUP*\\n\\n*—◉ IN MEMBER:*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] THE USER HAS 0 WARNINGS*",
+            "texto1": "*[❗] DELETED THE LAST OR RESPECTED A MEMBER OF THE GROUP*\\n\\n*—◉ IN MEMBER:*",
+            "texto2": "*[❗] THE USER HAS 0 WARNINGS*",
             "texto3": "REMEMBER A WARNING\\n*WARNINGS*"
         },
         "gc_warn": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] DELETED THE LAST OR RESPECTED A MEMBER OF THE GROUP TO WARN SOMEONE*\\n\\n*—◉ IN MEMBER:*",
+            "texto1": "*[❗] DELETED THE LAST OR RESPECTED A MEMBER OF THE GROUP TO WARN SOMEONE*\\n\\n*—◉ IN MEMBER:*",
             "texto2": [
                 "RECEIVED A WARNING IN THE GROUP!\nReason:",
                 "*WARNINGS*"
             ],
             "texto3": [
-                "*[❗𝐈𝐍𝐅𝐎❗] THE PROTAGONIST OF THE RUMOR DOES NOT HAVE ABILITIES TO ENABLE THE RESTRICTIONS",
+                "*[❗] THE PROTAGONIST OF THE RUMOR DOES NOT HAVE ABILITIES TO ENABLE THE RESTRICTIONS",
                 "CONTACT HIM IF NECESSARY*"
             ],
             "texto4": [
@@ -2362,29 +2363,29 @@
         },
         "grupos_eliminar": {
             "texto1": [
-                "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The bot owner activated the restriction function",
+                "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] The bot owner activated the restriction function",
                 "therefore, the requested command was not executed.*"
             ],
-            "texto2": "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Tag or reply to a message of the participant you want to delete.*\n\n*[ 💡 ] Example:*",
-            "texto3": "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Tag or reply to a message of the participant you want to delete.",
-            "texto4": "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The bot cannot delete itself.*",
+            "texto2": "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] Tag or reply to a message of the participant you want to delete.*\n\n*[ 💡 ] Example:*",
+            "texto3": "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] Tag or reply to a message of the participant you want to delete.",
+            "texto4": "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] The bot cannot delete itself.*",
             "texto5": [
-                "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The participant",
+                "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] The participant",
                 "has been deleted.*"
             ],
             "texto6": [
-                "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ]",
+                "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ]",
                 "is the group owner, therefore, cannot be deleted.*"
             ],
             "texto7": [
-                "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ]",
+                "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ]",
                 "has already been deleted or left the group.*"
             ],
-            "texto8": "_*< GROUPS - DELETE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto8": "_*< GROUPS - DELETE />*_\n\n*[ ℹ️ ] An error occurred. Please try again later.*"
         },
         "herramientas_acortar": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] The link or URL you entered is invalid or not accessible*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Error, please check if the entered text is in text and is a valid URL text*",
+            "texto2": "*[❗] Error, please check if the entered text is in text and is a valid URL text*",
             "texto3": [
                 "*ATTENTION TO CUT!!*\n\n*PREVIOUS LINK:*",
                 "*CURRENT LINK:*"
@@ -2403,26 +2404,26 @@
             "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Unsupported format, only numbers and the following symbols are accepted: +, -, *, /, ×, ÷, π, e, (, )*"
         },
         "herramientas_chatgpt_del": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] You are excluded from incoming message and conversation (AI) history*\n\n*—◉ Remember that you can use the /tengain command in the channel to be able to use the command*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again*"
+            "texto1": "*[❗] You are excluded from incoming message and conversation (AI) history*\n\n*—◉ Remember that you can use the /tengain command in the channel to be able to use the command*",
+            "texto2": "*[❗] Error, please try again*"
         },
         "herramientas_chatgpt": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
+                "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by Arlodragon, you will be The  TYRAXES - Bot.",
-            "texto3": "You will act as a WhatsApp Bot created by Arlodragon, you will be The  TYRAXES - Bot.",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again*"
+            "texto2": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
+            "texto3": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
+            "texto4": "*[❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
+                "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by ARLODRAGON, you will be The  TYRAXES - Bot.",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again*"
+            "texto2": "You will act as a WhatsApp Bot created by BrunoSobrino, you will be The Mystic - Bot.",
+            "texto3": "*[❗] Error, please try again*"
         },
         "herramientas_clima": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Enter the name of your country or city*",
+            "texto1": "*[❗] Enter the name of your country or city*",
             "texto2": [
                 "「 📍 」Location:",
                 "「 🗺️ 」Country:",
@@ -2433,21 +2434,21 @@
                 "「 💦 」Humidity:",
                 "「 🌬️ 」 Wind:"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] No corresponding results found, please check if you entered your country or city correctly*"
+            "texto3": "*[❗] No corresponding results found, please check if you entered your country or city correctly*"
         },
         "herramientas_dalle": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] Enter a text to create an image and use it to have fun and use it for a Dall-E function.*\n\n*—◉ Examples of Petitions*\n*◉",
+                "*[❗] Enter a text to create an image and use it to have fun and use it for a Dall-E function.*\n\n*—◉ Examples of Petitions*\n*◉",
                 "crying kittens*\n*◉",
                 "Hatsune Miku's kiss*"
             ],
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Creating image, please wait.*",
+            "texto2": "*[❗] Creating image, please wait.*",
             "texto3": [
-                "'[❗𝐈𝐍𝐅𝐎❗] Error in DALL-E API number 1.'",
-                "[❗𝐈𝐍𝐅𝐎❗] Error in DALL-E API number 2.",
-                "[❗𝐈𝐍𝐅𝐎❗] Error in DALL-E API number 3.",
-                "[❗𝐈𝐍𝐅𝐎❗] Error, no functional API.",
-                "*[❗𝐈𝐍𝐅𝐎❗] Error, no result obtained.*"
+                "'[❗] Error in DALL-E API number 1.'",
+                "[❗] Error in DALL-E API number 2.",
+                "[❗] Error in DALL-E API number 3.",
+                "[❗] Error, no functional API.",
+                "*[❗] Error, no result obtained.*"
             ]
         },
         "herramientas_dropmail": {
@@ -2499,16 +2500,16 @@
             ]
         },
         "herramientas_hd": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] SEND AN IMAGE OR REPLY TO AN IMAGE WITH AN IMAGE OR VIDEO COMMAND",
+            "texto1": "*[❗] SEND AN IMAGE OR REPLY TO AN IMAGE WITH AN IMAGE OR VIDEO COMMAND",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] FILE FORMAT",
+                "*[❗] FILE FORMAT",
                 "IS NOT SUPPORTED, SEND OR REPLY TO A PHOTO*"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] PROCESSING IMAGE...*",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE CHECK THE INPUT FILE*"
+            "texto3": "*[❗] PROCESSING IMAGE...*",
+            "texto4": "*[❗] ERROR, PLEASE CHECK THE INPUT FILE*"
         },
         "herramientas_igstalk": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] INSTAGRAM USER INFORMATION, EXAMPLE:*",
+            "texto1": "*[❗] INSTAGRAM USER INFORMATION, EXAMPLE:*",
             "texto2": [
                 "< TOOLS - IGSTALK />",
                 "▢ *Name:*",
@@ -2521,7 +2522,7 @@
             ]
         },
         "herramientas_inspect": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Insert the link of a WhatsApp group.",
+            "texto1": "[❗] Insert the link of a WhatsApp group.",
             "texto2": [
                 "⫹⫺ ID:",
                 "⫹⫺ Name:",
@@ -2542,18 +2543,18 @@
             ]
         },
         "herramientas_ocr": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN, DON'T FORGET TO RESPOND TO AN IMAGE"
+            "texto1": "[❗] ERROR, PLEASE TRY AGAIN, DON'T FORGET TO RESPOND TO AN IMAGE"
         },
         "herramientas_qrcode": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] ERROR: PLEASE ENTER THE TEXT YOU WANT TO CONVERT TO QR CODE"
+            "texto1": "[❗] ERROR: PLEASE ENTER THE TEXT YOU WANT TO CONVERT TO QR CODE"
         },
         "herramientas_readqrcode": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] REPLY / TYPE AN IMAGE",
+            "texto1": "[❗] REPLY / TYPE AN IMAGE",
             "texto2": "The QR Code Text Is:"
         },
         "herramientas_readviewonce": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] REPLY TO A MESSAGE THAT HAS BEEN SENT IN A VIEW ONCE (VIEW ALONE)",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] SELECTED MESSAGE IS NOT A VIEW ONCE (VIEW ALONE)"
+            "texto1": "[❗] REPLY TO A MESSAGE THAT HAS BEEN SENT IN A VIEW ONCE (VIEW ALONE)",
+            "texto2": "[❗] SELECTED MESSAGE IS NOT A VIEW ONCE (VIEW ALONE)"
         },
         "herramientas_spamwa": {
             "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 5219999999999|reply :v|25*",
@@ -2561,7 +2562,7 @@
             "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 5219999999999|reply :v|25*",
             "texto4": "[ ⚠️ ] MESSAGES SHOULD BE LESS THAN 50 MESSAGES️",
             "texto5": [
-                "[❗𝐈𝐍𝐅𝐎❗] MESSAGE SPAM IS ABOVE LIMIT\nPLEASE CONSULT THE ADMIN\nEMERGENCY CONTACT:\n*—◉",
+                "[❗] MESSAGE SPAM IS ABOVE LIMIT\nPLEASE CONSULT THE ADMIN\nEMERGENCY CONTACT:\n*—◉",
                 "with you!"
             ]
         },
@@ -2569,15 +2570,15 @@
             "texto1": "[ 🔎 ] Send the command along with the complete URL of the site."
         },
         "herramientas_topdf": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Request / Tag an image to convert to PDF*"
+            "texto1": "[❗] Request / Tag an image to convert to PDF*"
         },
         "herramientas__translate": {
             "texto1": [
-                "[❗𝐈𝐍𝐅𝐎❗] Correct Use of Command",
+                "[❗] Correct Use of Command",
                 "(language) (text)\nEXAMPLE:",
                 "es Hello*\n\nSupported Language Codes:"
             ],
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE TRY AGAIN*",
+            "texto2": "[❗] ERROR, PLEASE TRY AGAIN*",
             "texto3": "Translation:"
         },
         "herramientas_whatmusic": {
@@ -2594,21 +2595,21 @@
             "texto4": "[❗𝐈𝐍𝐅𝐎❗] REPLY TO AN AUDIO"
         },
         "ia_bard": {
-            "texto1": "< IA - BARD />\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Provides a text.\n\n[ 💡 ] Example:",
+            "texto1": "< IA - BARD />\n\n*[ ℹ️ ] Provides a text.\n\n[ 💡 ] Example:",
             "texto2": "Hello Bard, how are you?",
-            "texto3": "< IA - BARD />_\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Could not get a valid response.",
-            "texto4": "_< IA - BARD />_\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later."
+            "texto3": "< IA - BARD />_\n\n[ ℹ️ ] Could not get a valid response.",
+            "texto4": "_< IA - BARD />_\n\n[ ℹ️ ] An error occurred. Please try again later."
         },
         "ia_character_ai": {
             "texto1": [
-                "_< IA - CHARACTER.AI />_\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Provides a text.\n\n[ 💡 ] Example:",
+                "_< IA - CHARACTER.AI />_\n\n[ ℹ️ ] Provides a text.\n\n[ 💡 ] Example:",
                 "Hello, how are you?"
             ],
-            "texto2": "_< IA - CHARACTER.AI />_\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Could not get a valid response.",
-            "texto3": "_< IA - CHARACTER.AI />_\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later."
+            "texto2": "_< IA - CHARACTER.AI />_\n\n[ ℹ️ ] Could not get a valid response.",
+            "texto3": "_< IA - CHARACTER.AI />_\n\n[ ℹ️ ] An error occurred. Please try again later."
         },
         "info_covid": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Information about the number of cases in the country, Example*",
+            "texto1": "[❗] Information about the number of cases in the country, Example*",
             "texto2": [
                 "🌏 Country:",
                 "✅ Confirmed:",
@@ -2650,7 +2651,7 @@
                 "➤ BANK: STP",
                 "➤ BENEFICIARY: Bruno Sobrino",
                 "➤ CONCEPT: SUPPORT",
-                "➤ PAYPAL: https://www.paypal.me/TheShadowBrokers133",
+                "➤ PAYPAL: https://www.paypal.me/BrunoSob",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
                 "wa.me/5219992095479"
@@ -2661,7 +2662,7 @@
                 "*< INFORMATION - STATE />*_",
                 "▢ *Owner:* Bruno Sobrino",
                 "▢ *WA:* +5219992095479",
-                "▢ *PayPal:* paypal.me/TheShadowBrokers133",
+                "▢ *PayPal:* paypal.me/BrunoSob",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
                 "▢ *Prefix:*",
@@ -2698,7 +2699,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own THE- bumblebee🐝bot-BOT-MD bot on your online platform, allowing your bots to be active 24/7. 💻*",
+                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own THE-MYSTIC-BOT-MD bot on your online platform, allowing your bots to be active 24/7. 💻*",
                 "_The installation of these versions has been approved and is already fully operational. Additionally, *the servers are fully compatible, allowing you to choose the type of bot startup according to your needs.* Get ready for a seamless and exciting user experience!_",
                 "*Official Page:*",
                 "https://www.cafirexos.com/",
@@ -2718,7 +2719,7 @@
             "texto2": "The Best Hosting 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Khalid-Official/The bumblebee🐝bot-Bot-MD.git && cd The bumblebee🐝bot-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd The bumblebee🐝bot-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd The bumblebee🐝bot-Bot-MD\n> rm -rf  bumblebee🐝botSession\n> npm start",
+            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
             "texto2": "The Best WhatsApp Bot"
         },
         "info_listprem": {
@@ -2753,35 +2754,35 @@
             "texto1": [
                 "_*< INFORMATION - REPOSITORY />*_",
                 "▢ *Name:*",
-                "The TYRAXES-Bot-MD",
+                "TheMystic-Bot-MD",
                 "▢ *Visitors:*",
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://github.com/Kingdragony/TYRAX",
+                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] You can download this repository by sending the command:*"
+                "*[ ℹ️ ] You can download this repository by sending the command:*"
             ]
         },
         "juegos_matematicas_respuestas": {
-            "texto1": "_*< GAMES - MATHEMATICS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The mathematical exercise has already been solved previously.*",
+            "texto1": "_*< GAMES - MATHEMATICS />*_\n\n*[ ℹ️ ] The mathematical exercise has already been solved previously.*",
             "texto2": "`_*< GAMES - MATHEMATICS />*_\n\n▢ *Correct answer!*\n\n▢ *You won:*",
             "texto3": "_*< GAMES - MATHEMATICS />*_\n\n▢ *You have no more chances.*\n\n▢ *Correct answer:*",
             "texto4": "_*< GAMES - MATHEMATICS />*_\n\n▢ *Incorrect answer.*\n\n▢ You still have",
             "texto5": " chance(s)."
         },
         "juegos_matematicas": {
-            "texto1": "_*< GAMES - MATHEMATICS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] You need to indicate the difficulty level you want to play with.*\n\n*[ 💡 ] Example:*",
+            "texto1": "_*< GAMES - MATHEMATICS />*_\n\n*[ ℹ️ ] You need to indicate the difficulty level you want to play with.*\n\n*[ 💡 ] Example:*",
             "texto2": "▢ *Available levels:*",
-            "texto3": "_*< GAMES - MATHEMATICS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] There are still unsolved mathematical problems in this chat.*",
+            "texto3": "_*< GAMES - MATHEMATICS />*_\n\n*[ ℹ️ ] There are still unsolved mathematical problems in this chat.*",
             "texto4": [
                 "_*< GAMES - MATHEMATICS />*_\n\n▢ *Solve:*",
                 "▢ *Time:*",
                 "▢ *Prize:*"
             ],
-            "texto5": "_*< GAMES - MATHEMATICS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Time's up.*\n\n▢ *Answer:*"
+            "texto5": "_*< GAMES - MATHEMATICS />*_\n\n*[ ℹ️ ] Time's up.*\n\n▢ *Answer:*"
         },
         "maker_blur": {
             "texto1": "*[ ✔ ] EFFECT APPLIED*"
@@ -2793,12 +2794,12 @@
             "texto1": "*YOU'RE HOT 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal  Tyraxes bot_\n\n*[❗𝐈𝐍𝐅𝐎❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy  Tyraxes bot|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
+            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
             "texto2": [
                 "*[❗ℹ️] THE EFFECT",
                 "IS NOT IN THE LIST OF EFFECTS*"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Missing the text where the logo will be applied*",
+            "texto3": "*[❗] Missing the text where the logo will be applied*",
             "texto4": [
                 "*[❗ℹ️] THE EFFECT",
                 "IS NOT IN THE LIST OF EFFECTS*",
@@ -2816,10 +2817,10 @@
             "texto1": "*THANKS FOR COMMENTING!!*"
         },
         "maker_ephoto360": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] INSERT A TEXT*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] DESIGNING YOUR DESIGN, WAIT A MOMENT...*",
+            "texto1": "*[❗] INSERT A TEXT*",
+            "texto2": "*[❗] DESIGNING YOUR DESIGN, WAIT A MOMENT...*",
             "texto3": "*[❗ℹ️] ERROR, PLEASE TRY AGAIN*",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] DESIGNING YOUR DESIGN, WAIT A MOMENT...*",
+            "texto4": "*[❗] DESIGNING YOUR DESIGN, WAIT A MOMENT...*",
             "texto5": "*[❗ℹ️] ERROR, PLEASE TRY AGAIN*"
         },
         "maker_lolice": {
@@ -2873,7 +2874,7 @@
         },
         "menu_labiblia": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] Commands +18 are disabled in this group, if you are an admin and want to activate them, use",
+                "*[❗] Commands +18 are disabled in this group, if you are an admin and want to activate them, use",
                 "*Hello",
                 "*< MENU+18 />*",
                 "*[❗ℹ️] The menu has an error and could not be sent, please inform the bot owner*"
@@ -2881,14 +2882,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "THE  TYRAXES - BOT",
+                "THE MYSTIC - BOT",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
                 "▢ *Experience:* ",
                 "▢ *Ranking:* ",
                 "▢ *Diamonds:* ",
-                "▢ * bumblebee🐝botal Coins:* ",
+                "▢ *Mystical Coins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< MENU LIST />*_",
@@ -2910,13 +2911,14 @@
                 " _*< ECONOMY />*_",
                 " _*< STICKERS />*_",
                 "_*< OWNER AND MODS. />*_",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This menu has an internal error, so it could not be sent.*",
+                "*[ ℹ️ ] This menu has an internal error, so it could not be sent.*",
                 "*<option> <time>*",
                 "(no prefix)",
                 "*<room name>*"
             ],
             "texto2": "_< Language Options 🌎 >_",
-            "texto3": "_< Group Language >_"
+            "texto3": "_< Group Language >_",
+            "texto4": " *_🚀 New RPG Game for Mining_*"
         },
         "mipilot_serbot_broadcast": {
             "texto1": "*〔 SUB BOTS BROADCAST 〕*\n\n",
@@ -2934,7 +2936,7 @@
             "texto2": [
                 "*—◉ Activate Active SubBots TIEs (SERBOT/JADIBOT) 🤖️*",
                 "*◉ CONTROLLED REQUESTS TO REQUEST IF A GROUP, RESPECTS!!*",
-                "*[❗𝐈𝐍𝐅𝐎❗] THE CHAT ROLL - YOU HAVE TO CONNECT THAT THE ROLL IS RESPONSIBLE OR SUCCESS OCCURS THE BOT OR SUBBOTS*",
+                "*[❗] THE CHAT ROLL - YOU HAVE TO CONNECT THAT THE ROLL IS RESPONSIBLE OR SUCCESS OCCURS THE BOT OR SUBBOTS*",
                 "*—◉ CONNECTED SUBBOTS:*"
             ],
             "texto3": [
@@ -2957,8 +2959,8 @@
             ]
         },
         "mipilot_stopbot": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] You cannot turn off the main Bot.*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] You will stop being a Sub Bot in 5 seconds...*"
+            "texto1": "*[❗] You cannot turn off the main Bot.*",
+            "texto2": "*[❗] You will stop being a Sub Bot in 5 seconds...*"
         },
         "nv_global": {
             "texto1": [
@@ -2967,22 +2969,22 @@
             ]
         },
         "owner_actualizacion": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Command successfully activated, you will be notified when there is any change in the official repository.*",
+            "texto1": "*[❗] Command successfully activated, you will be notified when there is any change in the official repository.*",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] The repository has been updated!*\n*- Repository:*",
+                "*[❗] The repository has been updated!*\n*- Repository:*",
                 "*- Commit message:*",
                 "*- Committed by:*"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Error while checking the repository*"
+       "texto3": "*[❗️] local changes have been made in bot files that conflict with the updates of the repository. To update, reinstall the bot or perform the updates manually.*\n\n*conflict files:*"
         },
         "owner_add_del_owner": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] Incorrect usage of the command.*\n\n*—◉ Example of valid usage:*\n*◉",
+                "*[❗] Incorrect usage of the command.*\n\n*—◉ Example of valid usage:*\n*◉",
                 "<quoted message>*"
             ],
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] New number successfully added to the owners list.*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] The number was successfully removed from the owners list.*",
-            "texto4": "*[❗𝐈𝐍𝐅𝐎❗] The inserted number does not exist in the owners list.*"
+            "texto2": "*[❗] New number successfully added to the owners list.*",
+            "texto3": "*[❗] The number was successfully removed from the owners list.*",
+            "texto4": "*[❗] The inserted number does not exist in the owners list.*"
         },
         "owner_addmsg": {
             "texto1": "*[❗️ℹ️❗️] Reply to a text, image, etc. message and add a text for the keyword*",
@@ -3052,17 +3054,17 @@
             "texto2": "〔 𝙲𝙷𝙰𝚃 𝙱𝙰𝙽 𝙻𝙸𝚂𝚃 〕"
         },
         "owner_banuser": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Successfully requested to ban a person.\n\n*—◉ Example:*",
+            "texto1": "[❗] Successfully requested to ban a person.\n\n*—◉ Example:*",
             "texto2": "*[❗INFO❗] The user has been banned successfully, but is not connected*.\n*—◉ The user will not be able to use the bot until unblocked*"
         },
         "owner_bcgc": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the message you want to broadcast",
+            "texto1": "[❗] Enter the message you want to broadcast",
             "texto2": [
                 "\n\nTHIS IS AN OFFICIAL NOTICE",
                 "[❗NOTICE]\n\n"
             ],
             "texto3": [
-                "*[❗𝐈𝐍𝐅𝐎❗] MESSAGE SENT TO",
+                "*[❗] MESSAGE SENT TO",
                 "GROUP(S)*\n\n*NOTE: THERE MAY BE FAILURES IN THIS COMMAND AND IT MAY NOT BE SENT TO ALL CHATS, SORRY FOR THE INCONVENIENCE*"
             ]
         },
@@ -3072,14 +3074,14 @@
                 "to send the notice."
             ],
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] MESSAGE SENT TO",
+                "*[❗] MESSAGE SENT TO",
                 "GROUP(S)*\n\n*NOTE: THERE MAY BE FAILURES IN THIS COMMAND AND IT MAY NOT BE SENT TO ALL CHATS, SORRY FOR THE INCONVENIENCE*"
             ]
         },
         "owner_block_unblock": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] WRONG USER, EXAMPLE:* \n*—◉",
+            "texto1": "*[❗] WRONG USER, EXAMPLE:* \n*—◉",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] IF USING WRONG COMMAND THE COMMAND FOR THE USER*",
+                "*[❗] IF USING WRONG COMMAND THE COMMAND FOR THE USER*",
                 ""
             ]
         },
@@ -3088,10 +3090,10 @@
             "texto2": "No blocked numbers"
         },
         "owner_broadcast": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] IMPORTANT NOTICE: PLEASE READ:*\\n*—◉",
+            "texto1": "*[❗] IMPORTANT NOTICE: PLEASE READ:*\\n*—◉",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] NOTICE SENT TO ALL CHATS*\\n\\n*NOTE: THIS IS A MESSAGE TO MANAGE CHATS AND IS NOT SENT TO CHATS, AVAILABLE ONLY FOR THE MOMENT*",
-                "*[❗𝐈𝐍𝐅𝐎❗] NOTICE SENT TO ALL GROUP CHATS*\\n\\n*NOTE: THIS IS A MESSAGE TO MANAGE CHATS AND IS NOT SENT TO CHATS, AVAILABLE ONLY FOR THE MOMENT*"
+                "*[❗] NOTICE SENT TO ALL CHATS*\\n\\n*NOTE: THIS IS A MESSAGE TO MANAGE CHATS AND IS NOT SENT TO CHATS, AVAILABLE ONLY FOR THE MOMENT*",
+                "*[❗] NOTICE SENT TO ALL GROUP CHATS*\\n\\n*NOTE: THIS IS A MESSAGE TO MANAGE CHATS AND IS NOT SENT TO CHATS, AVAILABLE ONLY FOR THE MOMENT*"
             ],
             "texto3": [
                 "*╔══❰ NOTICE ❱══╗*\\n\\n",
@@ -3107,13 +3109,13 @@
             ]
         },
         "owner_broadcastchats": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] IMPORTANT NOTICE: PLEASE READ:*",
+            "texto1": "*[❗] IMPORTANT NOTICE: PLEASE READ:*",
             "texto2": [
-                "[❗𝐈𝐍𝐅𝐎❗] NOTICE\n\n",
+                "[❗] NOTICE\n\n",
                 "\n\nTHIS IS AN OFFICIAL NOTICE"
             ],
             "texto3": [
-                "*[❗𝐈𝐍𝐅𝐎❗] MESSAGE SENT TO ",
+                "*[❗] MESSAGE SENT TO ",
                 "PRIVATE CHATS*\n\n*NOTE: THIS IS A COMMAND TO MANAGE MESSAGES SENT TO CHATS AND IS NOT SENT TO CHATS, AVAILABLE ONLY FOR THE MOMENT*"
             ]
         },
@@ -3150,24 +3152,24 @@
             "texto3": "*[❗𝐈𝐍𝐅𝐎❗] DELETE ALL DELETED MESSAGES DELETE THE NAME*"
         },
         "owner_delprem": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] ATTENTION: @tag HAS STOPPED BEING RESPONSIBLE FOR SOMEONE'S MESSAGE WHO WANTS TO REMOVE FROM PREMIUM USERS*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] USER NOT FOUND IN THE DATABASE*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] THE ENTERED USER IS NOT A PREMIUM USER*",
+            "texto1": "*[❗] ATTENTION: @tag HAS STOPPED BEING RESPONSIBLE FOR SOMEONE'S MESSAGE WHO WANTS TO REMOVE FROM PREMIUM USERS*",
+            "texto2": "*[❗] USER NOT FOUND IN THE DATABASE*",
+            "texto3": "*[❗] THE ENTERED USER IS NOT A PREMIUM USER*",
             "texto4": "NOW NOT PART OF THE PREMIUM USERS"
         },
         "owner_exec2": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Executing order..."
+            "texto1": "[❗] Executing order..."
         },
         "owner_fetch_get": {
             "texto1": "Start URL with http:// or https://"
         },
         "owner_getplugin": {
             "texto1": [
-                "[❗𝐈𝐍𝐅𝐎❗] INSERTION OF THE NAME OF THE PLUGIN (FILE) EXISTING\n\n*—◉ EXAMPLE*\n◉",
+                "[❗] INSERTION OF THE NAME OF THE PLUGIN (FILE) EXISTING\n\n*—◉ EXAMPLE*\n◉",
                 "—◉ LIST OF EXISTING PLUGINS (FILES):\n◉*"
             ],
             "texto2": [
-                "[❗𝐈𝐍𝐅𝐎❗] NO PLUGIN (FILE) PLUGIN (FILE) FOUND",
+                "[❗] NO PLUGIN (FILE) PLUGIN (FILE) FOUND",
                 "INSERT ANY EXISTING\n\n*==================================\n\n—◉ LIST OF EXISTING PLUGINS (FILES):\n◉*"
             ]
         },
@@ -3188,11 +3190,11 @@
             "texto3": "Bot Group List 🤖\n\n—◉ Total groups:"
         },
         "owner_join": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Wrong or missing link, please insert the link of a WhatsApp group.\n\n*—◉ Example:\n◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
+            "texto1": "[❗] Wrong or missing link, please insert the link of a WhatsApp group.\n\n*—◉ Example:\n◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
             "texto2": "[ ✔️ ] Bot successfully joined the group.",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] Your group's link has been sent to my owner.\n\n*—◉ Your group will be under evaluation and the Bot owner will decide whether to add the Bot or not.\n\n—◉ Some reasons why your request might be denied are:\n1.- The Bot is saturated.\n2.- The Bot was recently removed from the group.\n3.- The group link has been reset.\n4.- The Bot is not added to groups by decision of the Bot owner.\n\n—◉ The evaluation process may take some time, even days, please be patient.",
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] NEW REQUEST FOR A BOT FOR A GROUP [❗𝐈𝐍𝐅𝐎❗]\n\n—◉ Applicant:",
-            "texto5": "[❗𝐈𝐍𝐅𝐎❗] Sorry, something went wrong. Please report or try again.*"
+            "texto3": "[❗] Your group's link has been sent to my owner.\n\n*—◉ Your group will be under evaluation and the Bot owner will decide whether to add the Bot or not.\n\n—◉ Some reasons why your request might be denied are:\n1.- The Bot is saturated.\n2.- The Bot was recently removed from the group.\n3.- The group link has been reset.\n4.- The Bot is not added to groups by decision of the Bot owner.\n\n—◉ The evaluation process may take some time, even days, please be patient.",
+            "texto4": "[❗] NEW REQUEST FOR A BOT FOR A GROUP [❗]\n\n—◉ Applicant:",
+            "texto5": "[❗] Sorry, something went wrong. Please report or try again.*"
         },
         "owner_leavegc": {
             "texto1": "Goodbye everyone, the Bot says goodbye! (≧ω≦)ゞ"
@@ -3221,14 +3223,14 @@
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] PREFIX RESET SUCCESSFULLY"
         },
         "owner_resetuser": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] User format not recognized. Reply to a message, mention a user, or write their user number.",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] User format not recognized. Reply to a message, mention a user, or write their user number.",
+            "texto1": "[❗] User format not recognized. Reply to a message, mention a user, or write their user number.",
+            "texto2": "[❗] User format not recognized. Reply to a message, mention a user, or write their user number.",
             "texto3": [
-                "[❗𝐈𝐍𝐅𝐎❗] The user",
+                "[❗] The user",
                 "is not in my database."
             ],
             "texto4": [
-                "[❗𝐈𝐍𝐅𝐎❗] All data of the user",
+                "[❗] All data of the user",
                 "in the database have been erased."
             ]
         },
@@ -3241,8 +3243,8 @@
             "texto2": "Reply with the image you want to save."
         },
         "owner_setprefix": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] No prefix found, please insert the prefix you want to set. Example:*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Bot's current prefix has been set to "
+            "texto1": "*[❗] No prefix found, please insert the prefix you want to set. Example:*",
+            "texto2": "*[❗] Bot's current prefix has been set to "
         },
         "owner_unbanchat": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THE CHAT IS SUCCESSFULLY UNBLOCKED*"
@@ -3257,6 +3259,12 @@
             "texto1": "Enter the name and folder of the image you want to view.",
             "texto2": "The image does not exist in the root folder."
         },
+        "owner_actualizar": {
+ "texto1": "*_< OWNER - UPDATE />_*\n\n*[✅] There are no pending updates.*",
+ "texto2": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] Update completed successfully.*\n\n",
+ "texto3": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] local changes have been made in bot files that conflict with the updates of the repository. To update, reinstall the bot or perform the updates manually.*\n\n*conflict files:*",
+ "texto4": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] A mistake occurred. Please try it again later.*"
+ },
         "random_kpop": {
             "texto1": [
                 "Usage",
@@ -3354,7 +3362,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamonds* 💎",
                 "Tokens* 🪙",
-                " bumblebee🐝botCoins* 👾",
+                "MysticCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3363,7 +3371,7 @@
             "texto1": "『🚓』THE POLICE CAUGHT YOU IN THE ACT, YOU'RE IN TROUBLE, YOU LOST :",
             "texto2": [
                 "💎 Diamonds",
-                "👾  Tyraxes bot Coins"
+                "👾 Mystic Coins"
             ],
             "texto3": [
                 "《💰》You stole from",
@@ -3477,7 +3485,7 @@
                 "*—◉ Keep exploring and completing missions to reach new heights in the Guild of Adventurers. Keep interacting with the Bot!*"
             ]
         },
-        "rpg_minar_ bumblebee🐝botcoins": {
+        "rpg_minar_mysticcoins": {
             "texto1": [
                 "What a pro 😎 you mined",
                 "🌟✨ Cool!! You receive",
@@ -3539,8 +3547,8 @@
                 "*⏱️Hey! Wait",
                 "to rob again*"
             ],
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] Mention someone to rob.*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] The user is not in my database.*",
+            "texto2": "*[❗] Mention someone to rob.*",
+            "texto3": "*[❗] The user is not in my database.*",
             "texto4": [
                 "has less than",
                 "xp*\nDon't rob a poor one."
@@ -3567,9 +3575,9 @@
             ]
         },
         "rpg_transfer": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] There are still funds in transfer, please wait a moment.*",
+            "texto1": "*[❗] There are still funds in transfer, please wait a moment.*",
             "texto2": [
-                "*[❗𝐈𝐍𝐅𝐎❗] Command Usage.*",
+                "*[❗] Command Usage.*",
                 "*—◉",
                 "[type]",
                 "[quantity]",
@@ -3579,13 +3587,13 @@
                 "▢ *limit* = diamonds",
                 "▢ *exp* = experience"
             ],
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Mention the user you want to transfer to.*",
+            "texto3": "*[❗] Mention the user you want to transfer to.*",
             "texto4": [
-                "*[❗𝐈𝐍𝐅𝐎❗] The user",
+                "*[❗] The user",
                 "is not in the database.*"
             ],
             "texto5": [
-                "*[❗𝐈𝐍𝐅𝐎❗] You don't have enough",
+                "*[❗] You don't have enough",
                 "to transfer.*"
             ],
             "texto6": [
@@ -3595,9 +3603,9 @@
                 "Type: (yes) to confirm",
                 "Type: (no) to cancel"
             ],
-            "texto7": "*[❗𝐈𝐍𝐅𝐎❗] Canceled, transfer will not be completed.*",
-            "texto8": "*[❗𝐈𝐍𝐅𝐎❗] Transferred successfully",
-            "texto9": "*[❗𝐈𝐍𝐅𝐎❗] Error transferring"
+            "texto7": "*[❗] Canceled, transfer will not be completed.*",
+            "texto8": "*[❗] Transferred successfully",
+            "texto9": "*[❗] Error transferring"
         },
         "rpg_unreg": {
             "texto1": "*[❗NF❗] Please enter your serial number, if you don't remember, you can use the #myns command*",
@@ -3616,8 +3624,8 @@
             "texto3": "*[❗INFORMATION❗] YOU MUST ENTER A NUMBER*",
             "texto4": "*[❗INFORMATION❗] AGE CANNOT BE EMPTY*",
             "texto5": "[❗INFORMATION❗] THE NUMBER IS TOO BIG",
-            "texto6": "*[❗𝐈𝐍𝐅𝐎❗] What, how are you alive at that age? 👴🏻*",
-            "texto7": "*[❗𝐈𝐍𝐅𝐎❗] What, a baby who knows how to use WhatsApp? 😲*",
+            "texto6": "*[❗] What, how are you alive at that age? 👴🏻*",
+            "texto7": "*[❗] What, a baby who knows how to use WhatsApp? 😲*",
             "texto8": [
                 "┏┅ ━━━━━━━━━━━━ ┅ ━",
                 "┇「 INFORMATION 」",
@@ -3678,7 +3686,7 @@
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] THE USE OF THIS COMMAND SHOULD BE #emojimix <emoji 1>&<emoji 2>*\n*EXAMPLE:*\n*#emojimix 🤨&😣*"
         },
         "sticker_kiss": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Please mention or tag a group participant.*"
+            "texto1": "*[❗] Please mention or tag a group participant.*"
         },
         "sticker_pat": {
             "texto1": [
@@ -3696,7 +3704,7 @@
         },
         "sticker_semoji": {
             "texto1": [
-                "*[❗𝐈𝐍𝐅𝐎❗] THE CORRECT USAGE OF THE COMMAND IS:*",
+                "*[❗] THE CORRECT USAGE OF THE COMMAND IS:*",
                 "<type> <emoji>*",
                 "*—◉ EXAMPLE:*",
                 " fa 😎",
@@ -3714,11 +3722,11 @@
                 "*◉ sa = samsung*",
                 "*—◉ USE ONLY ONE EMOJI AND RESPOND TO THE SPACE*"
             ],
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, INFORM THE NEW COMMAND*"
+            "texto2": "*[❗] ERROR, INFORM THE NEW COMMAND*"
         },
         "sticker_slap": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] MENTION IS MANDATORY*\n\n*—◉ EXAMPLE:*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] ERROR, PLEASE MENTION A PARTICIPANT*"
+            "texto1": "*[❗] MENTION IS MANDATORY*\n\n*—◉ EXAMPLE:*",
+            "texto2": "*[❗] ERROR, PLEASE MENTION A PARTICIPANT*"
         },
         "sticker_sremovebg": {
             "texto1": "*[❗️] MENTION IS MANDATORY, I WILL APPLY A TREATMENT, I WILL NOT RESPOND TO A CLEAN IMAGE ON THE BACKGROUND*"
@@ -3726,7 +3734,7 @@
         "sticker_sticker": {
             "texto1": "*[❗️] RESPOND TO A VIDEO, IMAGE, OR INSERT A STRETCHED IMAGE INTO THE EMBEDDED TEXT CHANNEL. YOU MUST RESPOND TO A STRETCHED IMAGE TO CONVERT TO STICKER, YOU MUST RESPOND OR USE THE CONVERTER COMMAND IN THE SERVER*",
             "texto2": "*[❗️] THE LINK / URL / LINK IS NOT VALID, THE LINK END MUST BE .jpg, EXAMPLE*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] MISSING MULTIMEDIA FILE*\n\n*—◉ Respond to a video or image that will be converted into a sticker, you must respond to the multimedia file or send it using the command:*\n*◉"
+            "texto3": "*[❗] MISSING MULTIMEDIA FILE*\n\n*—◉ Respond to a video or image that will be converted into a sticker, you must respond to the multimedia file or send it using the command:*\n*◉"
         },
         "sticker_stickerfilter": {
             "texto1": [
@@ -3755,7 +3763,7 @@
             "texto4": "*_⚠️ An error occurred while converting to sticker_*\n\n*_✳️ Sending image instead..._*"
         },
         "sticker_ttp_attp": {
-            "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Enter a text*\n\n*—◉ Example:*\n*◉"
+            "texto1": "*[❗] Enter a text*\n\n*—◉ Example:*\n*◉"
         },
         "sticker_wm": {
             "texto1": "*[❗️INFORMATION❗️] Reply to the sticker you want to add to a Pack and a Name*",
@@ -3788,46 +3796,46 @@
                 "▢ *Warning:*",
                 "\n▢ *Reason:*",
                 "▢ *Reason:* Not specified",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] If you believe this is an error and have evidence, you can contact the bot owner to appeal the suspension.*"
+                "*[ ℹ️ ] If you believe this is an error and have evidence, you can contact the bot owner to appeal the suspension.*"
             ],
-            "texto2": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Your diamonds have run out, you can acquire more with the command:*",
+            "texto2": "*[ ℹ️ ] Your diamonds have run out, you can acquire more with the command:*",
             "texto3": [
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] It's necessary to have level",
+                "*[ ℹ️ ] It's necessary to have level",
                 "to use the command. Your current level is",
                 "use the command",
                 "to increase your level with XP.*"
             ],
             "texto4": [
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ]",
+                "*[ ℹ️ ]",
                 "diamond(s) used (limits).*"
             ]
         },
         "dfail": {
-            "texto1": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by the bot owner.*",
-            "texto2": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by the bot owner.*",
-            "texto3": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by moderators and the bot owner.*",
-            "texto4": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by premium users and the bot owner.*",
-            "texto5": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used in groups.*",
-            "texto6": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used in the bot's private chat.*",
-            "texto7": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by group administrators.*",
-            "texto8": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To use this command, the bot must be a group administrator.*",
-            "texto9": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To use this command, you must be registered.*\n\n*[ 💡 ] Use the command:* /verify name.age to register.",
-            "texto10": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command has been disabled by the bot owner.*",
+            "texto1": "[ ℹ️ ] This command can only be used by the bot owner.",
+            "texto2": "[ ℹ️ ] This command can only be used by the bot owner.",
+            "texto3": "[ ℹ️ ] This command can only be used by moderators and the bot owner.",
+            "texto4": "[ ℹ️ ] This command can only be used by premium users and the bot owner.",
+            "texto5": "[ ℹ️ ] This command can only be used in groups.",
+            "texto6": "[ ℹ️ ] This command can only be used in the bot's private chat.",
+            "texto7": "[ ℹ️ ] This command can only be used by group administrators.",
+            "texto8": "[ ℹ️ ] To use this command, the bot must be a group administrator.",
+            "texto9": "[ ℹ️ ] To use this command, you must be registered.\n\n*[ 💡 ] Use the command:* /verify name.age to register.",
+            "texto10": "[ ℹ️ ] This command has been disabled by the bot owner.",
             "texto11": [
-                "[ 🔱 ] 🪀 TYRAXES 🪀",
-                "[ 🔱 ] 🪀 TYRAXES 🪀",
-                "https://github.com/Kingdragony/TYRAX"
+                "[ ⚠️ ] Warning",
+                "[ ⚠️ ] Warning",
+                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
             ]
         },
         "participantsUpdate": {
             "texto1": "👋 Welcome!\n@user",
             "texto2": "👋 Goodbye!\n@user",
-            "texto3": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] @user has been promoted to administrator.*",
-            "texto4": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] @user has been demoted from administrator.*",
-            "texto5": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group description has been modified.*",
-            "texto6": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group name has been modified.*",
-            "texto7": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group profile picture has been changed.*",
-            "texto8": "*Number :* @${participant.split`@`[0]} Deleted message.*"
+            "texto3": "*[ ℹ️ ] @user has been promoted to administrator.*",
+            "texto4": "*[ ℹ️ ] @user has been demoted from administrator.*",
+            "texto5": "*[ ℹ️ ] The group description has been modified.*",
+            "texto6": "*[ ℹ️ ] The group name has been modified.*",
+            "texto7": "*[ ℹ️ ] The group profile picture has been changed.*",
+            "texto8": "*[ ℹ️ ] The group invite link has been reset.*"
         },
         "deleteUpdate": {
             "texto1": [
@@ -3836,8 +3844,21 @@
                 " ▢ Time:",
                 "▢ Date:",
                 "▢ Sending the deleted message...\n",
-                "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To disable the antidelete feature, send the following command: /disable antidelete*"
+                "[ ℹ️ ] To disable the antidelete feature, send the following command: /disable antidelete"
             ]
         }
-    }
+    },
+    "BK9": {
+        "BK9": {
+            "bk9dalletext": "Please enter text, for example\n .bk9img A blue house in a picturesque nature",
+            "bk9dallewait": "loading ...",
+            "bk9dalleerr": "Failed to create image. Please try again later.",
+            "bk9text": "Please enter text, example : \n.bk9 Hello how are you?",
+            "bk9err": "An error occurred while processing your request.",
+            "bk9imgtext": "Reply to an image and write your question\n\nExample: .bk9img who is this (don’t forget to respond to an image)",
+            "bk9LText_T": "If you want it without customization,:\n.bk9short and put a link\nExample:\n.bk9short https://bk9.site/\nIf you want it to be customized :\n.Short, put a link + the word\nExample:\n.bk9short https://bk9.site/ + Suii",
+            "bk9LTaked_T": "This customization has been taken, try another one."
+        }
+
+        }
 }
